@@ -1,0 +1,109 @@
+<Buyer>
+		<GLN>8719332101409</GLN>
+		<Name>Aannemer Ketenstandaard</Name>
+		<Street>Aannemerweg</Street>
+		<HouseNumber>200</HouseNumber>
+		<HouseLetter>C</HouseLetter>
+		<City>Utrecht</City>
+		<PostalCode>2233BX</PostalCode>
+		<Country>NL</Country>
+		<VATRegistrationNumber>NL987654321B99</VATRegistrationNumber>
+		<ChamberOfCommerceNumber>27629378</ChamberOfCommerceNumber>
+		<ContactInformation>
+			<ContactPersonName>Xandra Pietersen</ContactPersonName>
+			<PhoneNumber>06-18579714</PhoneNumber>
+			<EmailAddress>Xandra@aannemerketenstandaard.nl</EmailAddress>
+		</ContactInformation>
+	</Buyer>
+	<Supplier>
+		<GLN>8719332111637</GLN>
+		<Name>Groothandel Ketenstandaard Utrecht</Name>
+		<Street>Groothandelweg</Street>
+		<HouseNumber>100</HouseNumber>
+		<HouseLetter>A</HouseLetter>
+		<HouseNumberSuffix>bisA</HouseNumberSuffix>
+		<City>Utrecht</City>
+		<PostalCode>7788AZ</PostalCode>
+		<Country>NL</Country>
+		<VATRegistrationNumber>NL123456789B00</VATRegistrationNumber>
+		<ChamberOfCommerceNumber>12345678</ChamberOfCommerceNumber>
+		<ContactInformation>
+			<ContactPersonName>Jan Jansen</ContactPersonName>
+			<PhoneNumber>06-11223344</PhoneNumber>
+			<EmailAddress>info@producentketenstandaard.nl</EmailAddress>
+		</ContactInformation>
+		<AccountInformation>
+			<IBAN>NL91BANK0417164300</IBAN>
+		</AccountInformation>
+	</Supplier>
+	<Invoicee>
+		<GLN>5082345456914</GLN>
+		<Name>Ketenstandaard Global Contractors</Name>
+		<Street>Houghton St</Street>
+		<HouseNumber>1</HouseNumber>
+		<City>Londen</City>
+		<PostalCode>WC2A 2AE</PostalCode>
+		<Country>UK</Country>
+		<VATRegistrationNumber>NL221234567B31</VATRegistrationNumber>
+		<ChamberOfCommerceNumber>87654321</ChamberOfCommerceNumber>
+	</Invoicee>
+	<Invoicer>
+		<GLN>8719332999631</GLN>
+		<Name>Groothandel Ketenstandaard N.V.</Name>
+		<Street>Ketenstandaardlaan</Street>
+		<HouseNumber>396</HouseNumber>
+		<HouseLetter>H</HouseLetter>
+		<City>Zevenaar</City>
+		<PostalCode>7788AZ</PostalCode>
+		<Country>NL</Country>
+		<VATRegistrationNumber>NL661234567B41</VATRegistrationNumber>
+		<ChamberOfCommerceNumber>87123654</ChamberOfCommerceNumber>
+		<AccountInformation>
+			<IBAN>xx</IBAN>
+		</AccountInformation>
+	</Invoicer>
+	<ShipFrom>
+		<GLN>8719332111637</GLN>
+		<Name>Groothandel Ketenstandaard Tilburg</Name>
+		<Name2>Lokatie Tilburg</Name2>
+		<Street>Groothandellaan</Street>
+		<HouseNumber>16</HouseNumber>
+		<City>Tilburg</City>
+		<PostalCode>5037DA</PostalCode>
+		<Country>NL</Country>
+	</ShipFrom>
+	<DeliveryParty>
+		<GLN>8712345123413</GLN>
+		<Name>Bouwplaats De Eerste Steen</Name>
+		<Name2>DeliveryParty staat voor afleveradres</Name2>
+		<Street>Oasisstraat</Street>
+		<HouseNumber>30</HouseNumber>
+		<City>Nijmegen</City>
+		<PostalCode>6663JD</PostalCode>
+		<Country>NL</Country>
+	</DeliveryParty>
+	<TaxRepresentative>
+		<GLN>8712345987213</GLN>
+		<Name>Ketenstandaard Accountants</Name>
+		<Street>Meander</Street>
+		<HouseNumber>861</HouseNumber>
+		<City>Arnhem</City>
+		<PostalCode>6825MH</PostalCode>
+		<Country>NL</Country>
+		<VATRegistrationNumber>NL001234567B01</VATRegistrationNumber>
+	</TaxRepresentative>
+	<InvoiceCharge>
+		<ChargeTypeCode>AEM</ChargeTypeCode>
+		<ChargeAmount>7.50</ChargeAmount>
+		<MultiLanguageChargeDescription>
+			<Description>Administratietoeslag</Description>
+			<LanguageCode>nl</LanguageCode>
+		</MultiLanguageChargeDescription>
+		<MultiLanguageChargeDescription>
+			<Description>Administrative Charge</Description>
+			<LanguageCode>en</LanguageCode>
+		</MultiLanguageChargeDescription>
+		<VATInformation>
+			<VATRate>S</VATRate>
+			<VATPercentage>21</VATPercentage>
+		</VATInformation>
